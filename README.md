@@ -1,5 +1,5 @@
 # design-kickstart-for-developers
-A list of resources for developers who want to learn more about the design process. 
+A list of resources for developers who want to learn more about design and the design process. 
 
 ## Books & Courses
 * [Hack Design](https://hackdesign.org/lessons) It's an email course but I refer it to devs often: https://hackdesign.org/lessons
